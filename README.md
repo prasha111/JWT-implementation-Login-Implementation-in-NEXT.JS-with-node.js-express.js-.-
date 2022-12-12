@@ -4,4 +4,4 @@
 
 
 
-Sorry code is not here. I didn't pushed by my mistake (The code is deleted). When I get some time I finsih this with more functionality.
+Sorry code is not here. I pushed by my mistake (The code is deleted). When I get some time I finsih this with more functionality.
